@@ -1,5 +1,5 @@
 maintainer       "Rob Lyon"
-maintainer_email "robert.t.lyon@gmail.com"
+maintainer_email "nosignsoflifehere@gmail.com"
 license          "Apache 2.0"
 description      "Installs/Configures pretty-prompt"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
